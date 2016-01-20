@@ -1,0 +1,21 @@
+Price,Maintenance,Doors,Person Capacity,Luggage Boot,Safety
+vhigh,high,more,more,med,low
+vhigh,med,2,more,big,med
+high,vhigh,more,4,small,high
+high,high,3,4,big,high
+high,low,3,more,big,high
+med,vhigh,2,4,small,med
+med,high,4,4,big,med
+med,med,4,more,med,high
+med,low,4,4,big,med
+med,low,4,more,med,high
+med,low,4,more,big,low
+low,vhigh,4,4,med,med
+low,high,4,more,med,high
+low,med,2,more,big,med
+low,med,4,more,med,high
+low,med,more,4,med,med
+low,low,3,more,med,low
+low,low,3,more,med,med
+low,low,4,more,med,high
+low,low,more,more,big,med
